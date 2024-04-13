@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+   
+}
+.header{
+    background-color: #ECECEC;
+    padding: 30px;
+    color: #212121;
+    
+    display: flex;
+    justify-content: space-between 20px;
+    align-items: center;
+}
+.link1 {
+    font-style: "Roboto" medium;
+    color: #212121;
+    text-decoration: none;
+    font-size: 14px;
+}
+.link1:hover{
+    color: #2196F3;
+}
+.Web{
+    color:#2196F3 ;
+}
+.Studio{
+    color: #212121;
+}
+.Studio2{
+    color: #FFFFFF;
+}
+.firstdiv{
+    background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    color: white;
+}
+.link2{
+    background-color: #2196F3;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.firstdivtxt{
+    width: 696px;
+    height: 120px;
+    line-height: 120px;
+    margin-bottom: 20px;
+}
+.box {
+    display: flex;
+    margin:30px;
+    justify-content: space-between 20px ;
+   
+}
+
+img {
+    width: 370px;
+    height: 294px;
+    object-fit: cover;
+}
+.team {
+    background-color: #F5F4FA;
+    color: #212121;
+    
+    
+}
+.under {
+    color: #757575;
+    font-style: "Roboto";
+    font-size: 16px;
+
+}
+.imgs {
+    width: 300px;
+    height: 300px;
+    justify-content: space-between;
+}
+.foot {
+    background-color: #2F303A;
+    
+    margin: auto;
+   
+    
+}
+.none {
+    font-style: "Roboto";
+    color: #757575;
+    text-decoration: none;
+}
+.none2 {
+    color: #FFFFFF;
+    padding: 5px;
+}
+.c {
+    color: #212121;
+}
+.comm {
+    
+    text-align: center;
+    font-style: "Roboto" bold;
+    font-size: 36px;
+    color: #212121;
+}
+.container1 {
+    max-width: 1170px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container2 {
+    max-width: 1170px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu {
+    display: flex;
+    list-style: none;
+    gap: 70px;
+    align-items: center;
+}
+
+h1 {
+    font-size: 26px;
+}
+h3 {
+    font-style: "Roboto" bold;
+    font-size: 14px;
+    color: #212121;
+}
+.firstp {
+    font-style: "Roboto";
+    font-size: 14px;
+    color: #757575;
+}
+.chym {
+    text-align: center;
+    font-style: "Roboto" bold;
+    font-size: 36px;
+    color: #212121;
+    
+}
+.section1 {
+
+}
